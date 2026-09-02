@@ -28,7 +28,7 @@ pre[class*=language-] {
 	order: 1;
 }
 
-.navbar .title-link:hover {
+.title-link:hover {
 	text-decoration: underline !important;
 }
 
