@@ -267,6 +267,10 @@ body {
 	.navbar .search-button {
 		margin: 10px 16px;
 	}
+
+    .filetree-sidebar .search-button {
+        display: none;
+    }
 }
 
 
