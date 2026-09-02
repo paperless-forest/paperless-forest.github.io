@@ -28,6 +28,10 @@ pre[class*=language-] {
 	order: 1;
 }
 
+.navbar .title-link:hover {
+	text-decoration: underline;
+}
+
 @media (max-width: 1000px) {
 	.filetree-sidebar .site-logo {
 		display: none;
