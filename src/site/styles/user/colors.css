@@ -275,6 +275,10 @@ body {
         margin-bottom: 20px;
     }
 
+    .navbar .navbar-inner>span {
+        margin-right: 0 !important;
+    }
+
     
 }
 
