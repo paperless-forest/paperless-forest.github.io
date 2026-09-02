@@ -10,7 +10,7 @@ pre[class*=language-] {
 .social-links {
 	display: flex;
 	gap: 12px;
-	margin: 20px 0 0;
+	margin: 10px 0 0;
 	justify-content: center;
 }
 
@@ -268,9 +268,7 @@ body {
 		margin: 10px 16px;
 	}
 
-    .filetree-sidebar .search-button {
-        display: none;
-    }
+    
 }
 
 
@@ -294,6 +292,10 @@ body {
 @media (max-width: 1000px) {
     .sidebar {
         margin-left: auto;
+    }
+
+    .filetree-sidebar .search-button {
+        display: none;
     }
 }
 
