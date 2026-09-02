@@ -271,6 +271,10 @@ body {
         width: 22px;
     }
 
+    .social-links {
+        margin: 20px 0;
+    }
+
     
 }
 
@@ -491,7 +495,7 @@ input[type=checkbox][data-task=">"]:checked::after {
 
 .filetree-sidebar>.folder {
     scrollbar-width: none;
-    margin-top: 12px;
+    margin-top: 2px;
 }
 
 
