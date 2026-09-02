@@ -259,9 +259,7 @@ body {
     box-sizing: border-box;
 }
 
-.filetree-sidebar .search-button {
-    margin: 12px 0;
-}
+
 
 @media (max-width: 800px) {
 	.navbar .search-button {
@@ -493,6 +491,7 @@ input[type=checkbox][data-task=">"]:checked::after {
 
 .filetree-sidebar>.folder {
     scrollbar-width: none;
+    margin-top: 12px;
 }
 
 
