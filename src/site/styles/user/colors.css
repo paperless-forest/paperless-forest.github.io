@@ -279,6 +279,10 @@ body {
         position: absolute;
     }
 
+    .navbar .navbar-inner > a:last-child {
+        margin-left: 18px;
+    }
+
     
 }
 
