@@ -277,11 +277,11 @@ body {
 
     .navbar .navbar-inner>span {
         position: absolute;
-        transform: translate(-20px, 0px);
+        transform: translate(-24px, 0px);
     }
 
     .navbar .navbar-inner {
-        margin-left: 20px;
+        margin-left: 24px;
     }
 
     
