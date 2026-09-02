@@ -276,7 +276,7 @@ body {
     }
 
     .navbar .navbar-inner>span {
-        margin-right: 0 !important;
+        position: absolute;
     }
 
     
