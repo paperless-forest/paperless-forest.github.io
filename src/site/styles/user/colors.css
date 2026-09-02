@@ -374,8 +374,10 @@ a.tag:hover {
 
 }
 
-a {
-  -webkit-tap-highlight-color: transparent !important;
+a, 
+button,
+[role="button"] {
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 .referred {
