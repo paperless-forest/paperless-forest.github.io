@@ -286,6 +286,7 @@ body {
 @media (max-width: 1400px) {
     .sidebar {
         margin-left: 290px;
+        border: none;
     }
 }
 
