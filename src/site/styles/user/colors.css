@@ -284,6 +284,11 @@ body {
         margin-left: 24px;
     }
 
+
+    .navbar .navbar-inner .site-logo {
+        margin-left: 10px;
+    }
+
     
 }
 
