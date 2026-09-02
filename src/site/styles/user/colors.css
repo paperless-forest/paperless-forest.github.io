@@ -29,7 +29,7 @@ pre[class*=language-] {
 }
 
 .navbar .title-link:hover {
-	text-decoration: underline;
+	text-decoration: underline !important;
 }
 
 @media (max-width: 1000px) {
