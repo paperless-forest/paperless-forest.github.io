@@ -319,6 +319,10 @@ body {
     .filetree-sidebar .search-button {
         display: none;
     }
+
+    .navbar {
+        -webkit-tap-highlight-color: transparent !important;
+    }
 }
 
 .filetree-wrapper {
@@ -374,11 +378,7 @@ a.tag:hover {
 
 }
 
-a, 
-button,
-[role="button"] {
-    -webkit-tap-highlight-color: transparent !important;
-}
+
 
 .referred {
     border: none;
