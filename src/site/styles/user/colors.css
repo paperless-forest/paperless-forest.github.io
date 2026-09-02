@@ -320,9 +320,12 @@ body {
         display: none;
     }
 
-    .navbar {
-        -webkit-tap-highlight-color: transparent !important;
-    }
+    
+}
+
+
+.navbar-inner {
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 .filetree-wrapper {
