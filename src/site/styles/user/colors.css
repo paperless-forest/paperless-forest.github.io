@@ -259,6 +259,10 @@ body {
     box-sizing: border-box;
 }
 
+.filetree-sidebar .search-button {
+    margin: 12px 0;
+}
+
 @media (max-width: 800px) {
 	.navbar .search-button {
 		margin: 10px 16px;
