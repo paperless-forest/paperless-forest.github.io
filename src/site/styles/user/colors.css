@@ -10,7 +10,7 @@ pre[class*=language-] {
 .social-links {
 	display: flex;
 	gap: 16px;
-	margin: 10px 0;
+	margin: 20px 0 10px;
 	justify-content: center;
 }
 
