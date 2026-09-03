@@ -332,6 +332,10 @@ body {
     margin: 0 0 5px;
 }
 
+.foldername-wrapper svg {
+    margin-right: 4px;
+}
+
 
 body {
     -webkit-tap-highlight-color: transparent !important;
