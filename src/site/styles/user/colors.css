@@ -328,6 +328,11 @@ body {
 }
 
 
+.filetree-sidebar .search-button {
+    margin: 0 0 5px;
+}
+
+
 body {
     -webkit-tap-highlight-color: transparent !important;
 }
